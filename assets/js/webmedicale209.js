@@ -1,6 +1,6 @@
 /*
 * Version: 1.0.0
-* Template: kivicare - Medical Clinic & Patient Management Html Template
+* Template: webmedical - Medical Clinic & Patient Management Html Template
 * Author: iqonic.design
 * Design and Developed by: iqonic.design
 * NOTE: This file contains the script for initialize & listener Template.

@@ -83,7 +83,7 @@
                 return {
                     "setting": {
                         "app_name": {
-                            "value": "Kivicare"
+                            "value": "webmedical"
                         },
                         "theme_color": {
                             "colors": {
@@ -130,3 +130,4 @@
     })
 
 })();
+
